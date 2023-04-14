@@ -1,2 +1,3 @@
 28acwm.data filter=lfs diff=lfs merge=lfs -text
 /ds/pkmsoulsilver.nds filter=lfs diff=lfs merge=lfs -text
+/ds/*.nds filter=lfs diff=lfs merge=lfs -text
